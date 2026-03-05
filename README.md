@@ -1,5 +1,4 @@
 # Godot---Duck-Hunt
-Projeto de um joguinho da Atari feito em godot mesclando versões 3.0 com a 4.0
 
 Projeto de recriação do clássico jogo Duck Hunt (Atari/Nintendo) feito em **Godot Engine**, mesclando elementos das versões 3.0 e 4.0.
 
