@@ -149,7 +149,7 @@ stream = ExtResource("12_fpfj3")
 [node name="colidiu" type="AudioStreamPlayer2D" parent="." unique_id=1329313960]
 stream = ExtResource("13_sc1dx")
 
-[node name="AudioStreamPlayer2D4" type="AudioStreamPlayer2D" parent="." unique_id=128687450]
+[node name="flyaway" type="AudioStreamPlayer2D" parent="." unique_id=128687450]
 stream = ExtResource("14_kjvhd")
 
 [node name="novoturno" type="AudioStreamPlayer2D" parent="." unique_id=32120554]
