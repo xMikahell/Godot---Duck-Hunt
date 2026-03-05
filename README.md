@@ -12,7 +12,7 @@ Baseado no curso de Godot do Danki Code (créditos: https://cursos.dankicode.com
 - Física 2D e movimento de sprites.
 - Input de mouse/teclado para mira e tiro.
 - Colisões e detecção de acertos.
-- UI simples (score, vidas).
+- UI simples (score).
 - Mescla de Godot 3.x e 4.x (ex: signals, nodes atualizados).
 
 ## Como rodar o projeto
