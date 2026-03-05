@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://b8mv6yakc4mul"]
+
+[ext_resource type="Texture2D" uid="uid://cwiyw65msi5jn" path="res://Material Duck Hunt/topo.png" id="1_61n4o"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gtbfk"]
+size = Vector2(768, 18)
+
+[node name="Topo" type="Area2D" unique_id=1293404351]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1587507339]
+texture = ExtResource("1_61n4o")
+centered = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=148880864]
+position = Vector2(384, 9)
+shape = SubResource("RectangleShape2D_gtbfk")
