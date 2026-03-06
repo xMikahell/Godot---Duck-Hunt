@@ -5,7 +5,8 @@ Projeto de recriação do clássico jogo Duck Hunt (Atari/Nintendo) feito em **G
 ## Sobre o projeto
 Clone simples para praticar mecânicas 2D: mira usando o mouse, tiro, patos voando aleatoriamente, score e game over.
 
-video do jogo finalizado (https://imgur.com/a/07rv2Ko)
+## Gameplay
+(https://imgur.com/a/07rv2Ko)
 
 Baseado no curso de Godot do Danki Code (créditos: https://cursos.dankicode.com/curso-godot-completo, https://www.youtube.com/@DankiCode).
 
